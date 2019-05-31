@@ -1,7 +1,7 @@
 # MDI-Design-Pattern-Pinard_Bruyas
 
 ## Objectif
-L'objectif de ces tp est de comprendre et implémenter les patrons de conception suivants : observer, visitor, decorator et state.
+L'objectif de ces tp est de comprendre et implémenter les patrons de conception suivants : observer, visitor, decorate et state.
 
 ## TP1 : Pattern Observer
 
