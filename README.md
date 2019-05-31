@@ -1,4 +1,4 @@
-# MDI-TP3-Pinard_Bruyas
+# MDI-Design-Pattern-Pinard_Bruyas
 
 ## 3.1
 * La fleche entre Commande et Pizza doit être inversée , une pizza ne possède pas de commande, mais une commande doit posséder une référence vers la ou les pizzas commandées.
