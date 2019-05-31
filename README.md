@@ -4,7 +4,7 @@
 L'objectif de ces tp est de comprendre et implémenter les patrons de conception suivants : observer, visitor, decorate et state.
 
 ## TP1 : Pattern Observer
-
+Le pattern observer est composé de la classe abstraite Subject ainsi qu'une interface Observer. On a une classe Mailbox qui va utiliser le pattern pour dans un premier temps afficher le nombre de mails reçus. Pour cela, la classe Mailbox hérite de Subject et on crée une classe CounterObserver qui implémente l'interface Observer. Dans un deuxième temps, on vaut en plus un affichage des objets des mails. Pour cela, on crée une classe MailObserver qui va elle aussi implémenter l'interface Observer. Nous avons donc nos deux classes observer qui en héritant de Jlabel nous permettent d'afficher les objets ainsi que le nombre de mail.
 
 ## TP2 : Pattern Visitor
 
